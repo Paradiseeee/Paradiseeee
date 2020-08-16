@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <!-- ![The Way to Paradise is Full of Terrors](https://img-blog.csdnimg.cn/20200817012009721.gif) -->
 <!-- will be redirected to githubusercontent.com -->
 
-![The Way to Paradise is Full of Terrors](Dinosaur.gif)
+![The Way to Paradise is Full of Terrors](./Dinosaur.gif)
