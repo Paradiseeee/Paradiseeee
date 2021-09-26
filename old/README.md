@@ -1,0 +1,26 @@
+<!-- ### Hi there 👋 -->
+
+<!--
+**Paradiseeee/Paradiseeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<!-- will be redirected to githubusercontent.com -->
+<!-- ![The Way to Paradise is Full of Terrors](https://img-blog.csdnimg.cn/20200817012009721.gif) -->
+
+<!-- can't reach without VPN -->
+![The Way to Paradise is Full of Terrors](https://github.com/Paradiseeee/Paradiseeee/blob/master/Dinosaur.gif?raw=true)
+
+<!-- try html tag to get pass redirecting -->
+<!-- <img src="https://img-blog.csdnimg.cn/20200817012009721.gif"> -->
+<!-- Not working -->
