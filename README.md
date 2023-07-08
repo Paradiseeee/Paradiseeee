@@ -17,6 +17,7 @@
         <img src="./readme-assets/flat-style/text/-信息技术-33aa44.svg">
         <img src="./readme-assets/flat-style/text/-金融学-cc5544.svg">
         <br/>
+        <br/>
         <p style="font-size:18px; color:#eaeaee; background-image:linear-gradient(to right, rgba(60, 112, 198, 0.8),rgba(60, 112, 198, 0.2), rgba(60, 112, 198, 0));">
         <b> ▼ TEC & TOOLS</b>
         </p>
@@ -31,6 +32,7 @@
         <img width="16%" src="./readme-assets/itom-style/jupyter-ar21.svg">
         <img width="16%" src="./readme-assets/itom-style/git-scm-ar21.svg">
         <img width="16%" src="./readme-assets/itom-style/linux-ar21.svg">
+        <br/>
         <br/>
         <p style="font-size:18px; color:#eaeaee; background-image:linear-gradient(to right, rgba(60, 112, 198, 0.8),rgba(60, 112, 198, 0.2), rgba(60, 112, 198, 0));">
         <b> ▼ CONTACT & LINKS</b>
